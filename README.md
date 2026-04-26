@@ -3,6 +3,9 @@
 **The All-in-One Pharmacology Study Workstation for Pharmacy Students**
 
 Stop bouncing between 5 different websites. PK calculators, drug interactions with mechanistic reasoning, suffix-based classification, dose adjustments, and comparison tables — all in one place.
+<img width="1911" height="1041" alt="image" src="https://github.com/user-attachments/assets/64321733-a39c-4a9b-a59d-bf6abf9ab7d3" />
+<img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/bb9ae7a2-6503-4175-916b-ed1eb1deed56" />
+
 
 ---
 
